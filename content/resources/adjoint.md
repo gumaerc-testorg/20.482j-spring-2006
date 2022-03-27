@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 549414eb-3766-c2f1-0f01-7a2b3284ff91
 resourcetype: Document
 title: adjoint.pdf
 uid: 5bb25cdf-b833-3d9e-f2d0-631fcffc8e01

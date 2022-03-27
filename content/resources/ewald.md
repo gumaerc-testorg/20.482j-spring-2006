@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 549414eb-3766-c2f1-0f01-7a2b3284ff91
 resourcetype: Document
 title: ewald.pdf
 uid: 748410a2-e579-3a26-9402-b4af7b14b0b4

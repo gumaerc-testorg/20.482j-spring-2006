@@ -26,8 +26,8 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 {{< tdclose >}}
 {{< tdopen >}}
 pair-dat.zip ([ZIP - 2.1 MB]({{< baseurl >}}/resources/pairdat)) (The ZIP file contains: pair.dat.)  
-pair-small.dat ([DAT - 7.8 MB](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/pairsmall.dat))  
-pair-tiny.dat ([DAT - 1.7 MB](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/pairtiny.dat))
+pair-small.dat ([DAT - 7.8 MB]({{< baseurl >}}/resources/pairsmall))  
+pair-tiny.dat ([DAT - 1.7 MB]({{< baseurl >}}/resources/pairtiny))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,9 +36,9 @@ pair-tiny.dat ([DAT - 1.7 MB](/courses/biological-engineering/20-482j-foundation
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 {{< tdclose >}}
 {{< tdopen >}}
-estatic.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/estatic.m))  
-moldyn.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/moldyn.m))  
-reflect.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/reflect.m))
+estatic.m ([M]({{< baseurl >}}/resources/estatic))  
+moldyn.m ([M]({{< baseurl >}}/resources/moldyn))  
+reflect.m ([M]({{< baseurl >}}/resources/reflect))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,16 +47,16 @@ reflect.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms
 Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3))
 {{< tdclose >}}
 {{< tdopen >}}
-calcp.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/calcp.m))  
-computeReactionPotential.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/computeReactionPotential.m))  
-estatic\_svd.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/estatic_svd.m))  
-gencolloc.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/gencolloc.m))  
-readpanel.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/readpanel.m))  
-readpanels.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/readpanels.m))  
-loadComplex.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/loadComplx.m))  
-sphere48.qif ([QIF](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/sphere48.qif))  
-sphere192.qif ([QIF](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/sphere192.qif))  
-sphere768.qif ([QIF](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/sphere768.qif))
+calcp.m ([M]({{< baseurl >}}/resources/calcp))  
+computeReactionPotential.m ([M]({{< baseurl >}}/resources/computereactionpotential))  
+estatic\_svd.m ([M]({{< baseurl >}}/resources/estatic_svd))  
+gencolloc.m ([M]({{< baseurl >}}/resources/gencolloc))  
+readpanel.m ([M]({{< baseurl >}}/resources/readpanel))  
+readpanels.m ([M]({{< baseurl >}}/resources/readpanels))  
+loadComplex.m ([M]({{< baseurl >}}/resources/loadcomplx))  
+sphere48.qif ([QIF]({{< baseurl >}}/resources/sphere48))  
+sphere192.qif ([QIF]({{< baseurl >}}/resources/sphere192))  
+sphere768.qif ([QIF]({{< baseurl >}}/resources/sphere768))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,9 +65,9 @@ sphere768.qif ([QIF](/courses/biological-engineering/20-482j-foundations-of-algo
 Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4))
 {{< tdclose >}}
 {{< tdopen >}}
-integrate.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/integrate.m))  
-lambda.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/lambda.m))  
-newton.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/newton.m))
+integrate.m ([M]({{< baseurl >}}/resources/integrate))  
+lambda.m ([M]({{< baseurl >}}/resources/lambda))  
+newton.m ([M]({{< baseurl >}}/resources/newton))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,8 +76,8 @@ newton.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-
 Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps5))
 {{< tdclose >}}
 {{< tdopen >}}
-descent.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/descent.m))  
-lambda2.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/lambda2.m))
+descent.m ([M]({{< baseurl >}}/resources/descent))  
+lambda2.m ([M]({{< baseurl >}}/resources/lambda2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,10 +87,10 @@ Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps6))
 {{< tdclose >}}
 {{< tdopen >}}
 mandrill.bmp ([BMP]({{< baseurl >}}/resources/mandrill))  
-circul.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/circul.m))  
-load\_data.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/load_data.m))  
-loadWaveletBasis.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/loadWaveletBasis.m))  
-partial\_inv.m ([M](/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/assignments/partial_inv.m))
+circul.m ([M]({{< baseurl >}}/resources/circul))  
+load\_data.m ([M]({{< baseurl >}}/resources/load_data))  
+loadWaveletBasis.m ([M]({{< baseurl >}}/resources/loadwaveletbasis))  
+partial\_inv.m ([M]({{< baseurl >}}/resources/partial_inv))
 {{< tdclose >}}
 
 {{< trclose >}}

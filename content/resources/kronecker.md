@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 549414eb-3766-c2f1-0f01-7a2b3284ff91
 resourcetype: Document
 title: kronecker.pdf
 uid: 6b6ebc6b-4bd0-40a6-0b76-9f02fa4e730f
