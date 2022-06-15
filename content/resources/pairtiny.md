@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 1.
-file: /media/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/a547371b2a95e14ece2871f79642713c_pairtiny.dat
+file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/a547371b2a95e14ece2871f79642713c_pairtiny.dat
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: pairtiny.dat
 uid: a547371b-2a95-e14e-ce28-71f79642713c
 ---
+This resource is a supporting file for problem set 1.
+

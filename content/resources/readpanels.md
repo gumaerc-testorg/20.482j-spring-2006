@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 3.
-file: /media/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/bcbe5193f4bd905ec9636c754f077669_readpanels.m
+file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/bcbe5193f4bd905ec9636c754f077669_readpanels.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: readpanels.m
 uid: bcbe5193-f4bd-905e-c963-6c754f077669
 ---
+This resource is a supporting file for problem set 3.
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 4.
-file: /media/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/9bcef03ee14446416899fadba63115d8_integrate.m
+file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/9bcef03ee14446416899fadba63115d8_integrate.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: integrate.m
 uid: 9bcef03e-e144-4641-6899-fadba63115d8
 ---
+This resource is a supporting file for problem set 4.
+

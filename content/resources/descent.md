@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 5.
-file: /media/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/a7743d67b4263121593fa2b30313040e_descent.m
+file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/a7743d67b4263121593fa2b30313040e_descent.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: descent.m
 uid: a7743d67-b426-3121-593f-a2b30313040e
 ---
+This resource is a supporting file for problem set 5.
+

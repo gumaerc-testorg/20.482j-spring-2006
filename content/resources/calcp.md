@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 3.
-file: /media/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/728ac7ea686f026ba85b778c941f77ad_calcp.m
+file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/728ac7ea686f026ba85b778c941f77ad_calcp.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: calcp.m
 uid: 728ac7ea-686f-026b-a85b-778c941f77ad
 ---
+This resource is a supporting file for problem set 3.
+

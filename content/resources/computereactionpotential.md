@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 3.
-file: /media/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/a4ac3dbf40d1974298f4997c99479126_computeReactionPotential.m
+file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/a4ac3dbf40d1974298f4997c99479126_computeReactionPotential.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: computeReactionPotential.m
 uid: a4ac3dbf-40d1-9742-98f4-997c99479126
 ---
+This resource is a supporting file for problem set 3.
+

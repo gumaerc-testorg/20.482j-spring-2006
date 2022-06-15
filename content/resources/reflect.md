@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 2.
-file: /media/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/c5e8f95902fb897e5693d6e7aec166a3_reflect.m
+file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/c5e8f95902fb897e5693d6e7aec166a3_reflect.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: reflect.m
 uid: c5e8f959-02fb-897e-5693-d6e7aec166a3
 ---
+This resource is a supporting file for problem set 2.
+

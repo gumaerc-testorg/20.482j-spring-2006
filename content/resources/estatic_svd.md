@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 3.
-file: /media/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/e614b7e17cb5ac9cda4f080bb6e2600a_estatic_svd.m
+file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/e614b7e17cb5ac9cda4f080bb6e2600a_estatic_svd.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: estatic_svd.m
 uid: e614b7e1-7cb5-ac9c-da4f-080bb6e2600a
 ---
+This resource is a supporting file for problem set 3.
+

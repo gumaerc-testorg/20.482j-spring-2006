@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 2.
-file: /media/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/aa069b341a0a6134a314a52f867016d2_moldyn.m
+file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/aa069b341a0a6134a314a52f867016d2_moldyn.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: moldyn.m
 uid: aa069b34-1a0a-6134-a314-a52f867016d2
 ---
+This resource is a supporting file for problem set 2.
+

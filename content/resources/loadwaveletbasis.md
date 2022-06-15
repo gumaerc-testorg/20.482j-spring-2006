@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 6.
-file: /media/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/5d9107ffcc412dd0cf18277cf65e734a_loadWaveletBasis.m
+file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/5d9107ffcc412dd0cf18277cf65e734a_loadWaveletBasis.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: loadWaveletBasis.m
 uid: 5d9107ff-cc41-2dd0-cf18-277cf65e734a
 ---
+This resource is a supporting file for problem set 6.
+
