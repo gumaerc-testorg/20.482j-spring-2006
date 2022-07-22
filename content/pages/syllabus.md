@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: Syllabus section contains information about recommended textbooks, grading
+  criteria and schedule of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 950b3c66-ebe8-d846-ee4c-465dfcad96cd
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
