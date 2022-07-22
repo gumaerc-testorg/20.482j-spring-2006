@@ -5,6 +5,7 @@ file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: computeReactionPotential.m
 uid: a4ac3dbf-40d1-9742-98f4-997c99479126
 ---
 This resource is a supporting file for problem set 3.
-

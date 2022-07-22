@@ -6,6 +6,7 @@ file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains pair-dat file which is a supporting file for problem set 1.
-

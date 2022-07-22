@@ -5,6 +5,7 @@ file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lambda2.m
 uid: 87ae668a-9968-8547-cb23-55d5da50d179
 ---
 This resource is a supporting file for problem set 5.
-

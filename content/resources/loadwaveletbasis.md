@@ -5,6 +5,7 @@ file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: loadWaveletBasis.m
 uid: 5d9107ff-cc41-2dd0-cf18-277cf65e734a
 ---
 This resource is a supporting file for problem set 6.
-

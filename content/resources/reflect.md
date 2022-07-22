@@ -5,6 +5,7 @@ file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: reflect.m
 uid: c5e8f959-02fb-897e-5693-d6e7aec166a3
 ---
 This resource is a supporting file for problem set 2.
-

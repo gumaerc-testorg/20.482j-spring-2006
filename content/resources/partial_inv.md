@@ -5,6 +5,7 @@ file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: partial_inv.m
 uid: a7a711f9-223c-d3a6-c323-8e06d930d67d
 ---
 This resource is a supporting file for problem set 6.
-
