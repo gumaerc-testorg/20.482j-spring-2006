@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for problem set 3.
 file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/d83f45d67c214d30b19fce0ae12b62c0_sphere48.qif
+file_size: 4840
 file_type: text/plain
 learning_resource_types:
 - Assignments
