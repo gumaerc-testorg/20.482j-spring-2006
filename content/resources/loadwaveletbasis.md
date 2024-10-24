@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 6.
-file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/5d9107ffcc412dd0cf18277cf65e734a_loadWaveletBasis.m
+file: /ol-ocw-studio-app/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/5d9107ffcc412dd0cf18277cf65e734a_loadWaveletBasis.m
 file_size: 261
 file_type: text/plain
 learning_resource_types:
