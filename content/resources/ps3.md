@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes 3 problem sets based on Ligand-Receptor Coulombic
   Interactions, Ligand-Receptor Electrostatic Optimization, and Long-range electrostatic
   interactions.
-file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/563ec7cf051672fbc4625d5f0bf593fa_ps3.pdf
+file: /ol-ocw-studio-app/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/563ec7cf051672fbc4625d5f0bf593fa_ps3.pdf
 file_size: 225603
 file_type: application/pdf
 learning_resource_types:

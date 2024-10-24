@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes 4 problems based on discrete?conformational?search.
-file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/c7c3fe6b088a2b88371b89f75e0be1f2_ps1.pdf
+file: /ol-ocw-studio-app/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/c7c3fe6b088a2b88371b89f75e0be1f2_ps1.pdf
 file_size: 309723
 file_type: application/pdf
 learning_resource_types:

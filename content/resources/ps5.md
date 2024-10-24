@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 1 problem based on least squares minimization.
-file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/a03139fe94d28a501e2a5a3b2be39fa2_ps5.pdf
+file: /ol-ocw-studio-app/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/a03139fe94d28a501e2a5a3b2be39fa2_ps5.pdf
 file_size: 278190
 file_type: application/pdf
 learning_resource_types:

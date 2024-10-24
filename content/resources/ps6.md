@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 3 problems based on Recovering Data from a Noisy
   Image, Modeling Discontinuities, and Two Dimensional Image Processing.
-file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/b6929f11a0d7ab296698558be4da3da7_ps6.pdf
+file: /ol-ocw-studio-app/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/b6929f11a0d7ab296698558be4da3da7_ps6.pdf
 file_size: 367636
 file_type: application/pdf
 learning_resource_types:

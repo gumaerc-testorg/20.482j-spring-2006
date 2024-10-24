@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains course notes on the topic- Adjoint Sensitivity
   Analysis for Optimization.
-file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/5bb25cdfb8333d9ef2d0631fcffc8e01_adjoint.pdf
+file: /ol-ocw-studio-app/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/5bb25cdfb8333d9ef2d0631fcffc8e01_adjoint.pdf
 file_size: 230301
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 4.
-file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/f38b9514febfa82d4bff282c74df274f_lambda.m
+file: /ol-ocw-studio-app/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/f38b9514febfa82d4bff282c74df274f_lambda.m
 file_size: 6766
 file_type: text/plain
 learning_resource_types:

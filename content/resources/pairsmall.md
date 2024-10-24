@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 1.
-file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/6952f7134ab69b3274da4cc0eb8532bd_pairsmall.dat
+file: /ol-ocw-studio-app/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/6952f7134ab69b3274da4cc0eb8532bd_pairsmall.dat
 file_size: 8219789
 file_type: text/plain
 learning_resource_types:
