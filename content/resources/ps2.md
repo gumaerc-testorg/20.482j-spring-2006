@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes 2 problems based on Modeling the dynamics of a
   trapped ion, and Long-range electrostatic interactions.
-file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/4462b948d7637bdc623dbe978bd7a816_ps2.pdf
+file: /ol-ocw-studio-app/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/4462b948d7637bdc623dbe978bd7a816_ps2.pdf
 file_size: 937139
 file_type: application/pdf
 learning_resource_types:
