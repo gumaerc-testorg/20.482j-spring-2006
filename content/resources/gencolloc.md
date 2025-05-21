@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 3.
-file: /ol-ocw-studio-app/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/be38cf4f31768271803dda39380f62a6_gencolloc.m
+file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/be38cf4f31768271803dda39380f62a6_gencolloc.m
 file_size: 598
 file_type: text/plain
 learning_resource_types:
