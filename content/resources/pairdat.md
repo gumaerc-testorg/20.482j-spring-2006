@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains pair-dat file which is a supporting file for problem
   set 1.
-file: /ol-ocw-studio-app/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/148881f0918b42e3ab5f9c9673124f17_pairdat.zip
+file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/148881f0918b42e3ab5f9c9673124f17_pairdat.zip
 file_size: 2206882
 file_type: application/zip
 learning_resource_types:

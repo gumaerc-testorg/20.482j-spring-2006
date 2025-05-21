@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains course notes on the topic- An alternative derivation
   of Ewald Sums.
-file: /ol-ocw-studio-app/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/748410a2e5793a269402b4af7b14b0b4_ewald.pdf
+file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/748410a2e5793a269402b4af7b14b0b4_ewald.pdf
 file_size: 593357
 file_type: application/pdf
 learning_resource_types:
