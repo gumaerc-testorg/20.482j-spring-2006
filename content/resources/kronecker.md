@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains course notes on the topic- Kronecker Products.
-file: /ol-ocw-studio-app/courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/6b6ebc6b4bd040a60b769f02fa4e730f_kronecker.pdf
+file: /courses/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/6b6ebc6b4bd040a60b769f02fa4e730f_kronecker.pdf
 file_size: 193681
 file_type: application/pdf
 learning_resource_types:
